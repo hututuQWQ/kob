@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="76b04a9a-05dd-49b5-8ea1-8776d98bbf04" name="120.46.201.246">
+        <fileTransfer rootFolder="/root/vue/web_privacy_platform" accessType="SFTP" host="120.46.201.246" port="22" sshConfigId="ebcf6c0e-0747-4003-9da7-9eb895af6ef5" sshConfig="root@120.46.201.246:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
