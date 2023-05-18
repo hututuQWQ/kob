@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="backend (1) (com.kob.backend)" />
         <module name="botrunningsystem" />
+        <module name="backend" />
         <module name="matchingsystem" />
       </profile>
     </annotationProcessing>

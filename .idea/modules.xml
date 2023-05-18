@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backendcloud/backend/backend.iml" filepath="$PROJECT_DIR$/backendcloud/backend/backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/backendcloud/backend/backend (1) (com.kob.backend).iml" filepath="$PROJECT_DIR$/backendcloud/backend/backend (1) (com.kob.backend).iml" />
       <module fileurl="file://$PROJECT_DIR$/backendcloud/backendcloud.iml" filepath="$PROJECT_DIR$/backendcloud/backendcloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/backendcloud/botrunningsystem/botrunningsystem.iml" filepath="$PROJECT_DIR$/backendcloud/botrunningsystem/botrunningsystem.iml" />
